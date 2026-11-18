@@ -1,0 +1,3 @@
+# 强制Java为主语言
+*.java linguist-language=Java
+*.vue linguist-language=Vue
