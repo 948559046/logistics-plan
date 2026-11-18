@@ -20,11 +20,13 @@
 ## 🎯 适用场景
 跨境独立站、外贸电商、货代企业、跨境卖家，用于下单前预核算物流成本、提前模拟装箱，可作为**货代系统、独立站运费预估工具**。
 
+## 🔗 联系我们
+业务咨询：948559046@qq.com
+
 ![智能物流系统界面｜跨境装箱模拟、体积重计费预览]
 <img width="7680" height="4320" alt="logistics-banner" src="https://github.com/user-attachments/assets/88bee6b9-464d-44d8-b42c-66224d48e9f0" />
 
-## 🔗 联系我们
-业务咨询：948559046@qq.com
+
 
 ---
 ## English Introduction
