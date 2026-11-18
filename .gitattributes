@@ -1,3 +1,5 @@
 # 强制Java为主语言
 *.java linguist-language=Java
 *.vue linguist-language=Vue
+# 文档不计入语言统计
+*.md linguist-documentation
