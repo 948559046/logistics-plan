@@ -1,5 +1,5 @@
 # logistics-plan 智能跨境物流解决方案
-> Intelligent Logistics Solution｜跨境装箱模拟、体积重计费、海外地址校验一体化系统
+> Intelligent cross-border logistics system for freight forwarders | 3D装箱模拟、体积重计费、国际地址校验、多渠道运费报价
 
 ## 介绍
 用户选购商品进入结算时触发。这套**智能物流系统**基于商品尺寸重量、已启用箱规、已启用物流渠道，自动生成装箱方案，匹配符合条件的物流渠道，算出对应运费，并返回给前端展示可选渠道，是一套实用的**跨境物流方案**。
